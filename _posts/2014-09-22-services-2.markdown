@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Data Science
+title: Data Science & Tech
 description: |
 ---
   Turn your 2D designs into high quality, 3D
