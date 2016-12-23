@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Agile Mindset
+title: Agile Mindset & Tech
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  More 17 years' experience in IT projects and has been working with Agile Teams since 2008.
