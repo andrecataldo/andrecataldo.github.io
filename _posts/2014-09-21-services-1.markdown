@@ -5,4 +5,4 @@ category: Services
 title: Agile Mindset & Tech
 description: |
 ---
-  More 20 years’ experience in IT projects and I have been working as Agile Coach since 2008.
+  More than 20 years´s of experience in information technology, software development, project management, product management and working full time with Agile Teams since 2007.
